@@ -1,0 +1,29 @@
+.login_div1 , .login_div2 
+{ 
+background: darkblue; 
+padding: 10px;
+float: none;
+border-radius: 15px; 
+color: black;
+}
+
+.background
+{
+background-image: url("https://png.pngtree.com/background/20210712/original/pngtree-cute-hand-drawn-style-mathematics-education-pink-background-picture-image_1176711.jpg");
+
+}
+
+.styleh1
+{
+color:darkblue;
+font-family: fantasy;
+}
+
+.stylebutton
+{
+width: 100px;
+background: darkblue;
+color: white;
+
+border-radius: 20px;
+}
